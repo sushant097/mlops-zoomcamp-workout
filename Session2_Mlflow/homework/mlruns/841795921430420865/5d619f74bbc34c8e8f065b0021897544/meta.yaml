@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/5d619f74bbc34c8e8f065b0021897544/artifacts
+end_time: 1685877546777
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 5d619f74bbc34c8e8f065b0021897544
+run_name: calm-mule-937
+run_uuid: 5d619f74bbc34c8e8f065b0021897544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877546651
+status: 3
+tags: []
+user_id: sushant.gautam

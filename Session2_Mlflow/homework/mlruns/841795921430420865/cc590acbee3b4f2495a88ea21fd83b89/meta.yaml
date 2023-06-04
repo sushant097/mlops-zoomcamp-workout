@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/cc590acbee3b4f2495a88ea21fd83b89/artifacts
+end_time: 1685877545376
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: cc590acbee3b4f2495a88ea21fd83b89
+run_name: inquisitive-rook-568
+run_uuid: cc590acbee3b4f2495a88ea21fd83b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877545187
+status: 3
+tags: []
+user_id: sushant.gautam

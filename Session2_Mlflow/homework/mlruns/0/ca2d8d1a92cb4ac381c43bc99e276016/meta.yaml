@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sushant.gautam/mlops/Session2_Experiment_Tracking/homework/mlruns/0/ca2d8d1a92cb4ac381c43bc99e276016/artifacts
+end_time: 1685813088606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca2d8d1a92cb4ac381c43bc99e276016
+run_name: agreeable-ram-882
+run_uuid: ca2d8d1a92cb4ac381c43bc99e276016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813077470
+status: 3
+tags: []
+user_id: sushant.gautam

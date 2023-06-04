@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/69db0e89b95a42a6bb6b9ec38a74b899/artifacts
+end_time: 1685877545180
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 69db0e89b95a42a6bb6b9ec38a74b899
+run_name: hilarious-calf-400
+run_uuid: 69db0e89b95a42a6bb6b9ec38a74b899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877544844
+status: 3
+tags: []
+user_id: sushant.gautam

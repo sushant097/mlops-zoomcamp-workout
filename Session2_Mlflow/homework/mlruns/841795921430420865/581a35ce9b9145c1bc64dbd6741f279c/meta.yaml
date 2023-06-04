@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/581a35ce9b9145c1bc64dbd6741f279c/artifacts
+end_time: 1685877543642
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 581a35ce9b9145c1bc64dbd6741f279c
+run_name: ambitious-yak-405
+run_uuid: 581a35ce9b9145c1bc64dbd6741f279c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877542772
+status: 3
+tags: []
+user_id: sushant.gautam

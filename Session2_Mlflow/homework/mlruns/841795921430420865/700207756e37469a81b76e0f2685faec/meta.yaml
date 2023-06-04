@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/700207756e37469a81b76e0f2685faec/artifacts
+end_time: 1685877546280
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 700207756e37469a81b76e0f2685faec
+run_name: chill-cod-226
+run_uuid: 700207756e37469a81b76e0f2685faec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877546126
+status: 3
+tags: []
+user_id: sushant.gautam

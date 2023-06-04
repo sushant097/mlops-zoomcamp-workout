@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/77c927d1fb1443f58514e687d6637126/artifacts
+end_time: 1685877544837
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 77c927d1fb1443f58514e687d6637126
+run_name: bold-ram-859
+run_uuid: 77c927d1fb1443f58514e687d6637126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877544554
+status: 3
+tags: []
+user_id: sushant.gautam

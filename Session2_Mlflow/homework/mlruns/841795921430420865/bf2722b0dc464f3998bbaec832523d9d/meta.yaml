@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/bf2722b0dc464f3998bbaec832523d9d/artifacts
+end_time: 1685877544545
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: bf2722b0dc464f3998bbaec832523d9d
+run_name: colorful-tern-0
+run_uuid: bf2722b0dc464f3998bbaec832523d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877543817
+status: 3
+tags: []
+user_id: sushant.gautam

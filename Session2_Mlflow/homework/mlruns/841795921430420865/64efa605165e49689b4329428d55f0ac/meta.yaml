@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841795921430420865/64efa605165e49689b4329428d55f0ac/artifacts
+end_time: 1685877543810
+entry_point_name: ''
+experiment_id: '841795921430420865'
+lifecycle_stage: active
+run_id: 64efa605165e49689b4329428d55f0ac
+run_name: resilient-ant-315
+run_uuid: 64efa605165e49689b4329428d55f0ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685877543651
+status: 3
+tags: []
+user_id: sushant.gautam
